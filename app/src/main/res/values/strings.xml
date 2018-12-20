@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="login_activity_title">@string/app_name</string>
+    <string name="login_text_view_text">Login</string>
+    <string name="password_text_view_text">Password</string>
+    <string name="confirm_password_text_view_text">Confirm Password</string>
+
+    <string name="fill_all_fields_message">Please, fill all gaps.</string>
+    <string name="no_auth_message">Please, try again. Wrong password or login.</string>
+    <string name="no_password_match_message">Please, try again. Passwords do not match.</string>
+    <string name="reg_cancel_message">Registration is cancelled</string>
+</resources>

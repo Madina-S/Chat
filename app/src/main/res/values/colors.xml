@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tab_icon_color">#FFFF</color>
+
+
+    <color name="color_chat_entry">#a467f4</color>
+    <color name="selected_chat_color">#c5daf4</color>
+    <color name="color_message_sent">#3F51B5</color>
+    <color name="color_message_received">#FFF</color>
+    <color name="color_icon">#898888</color>
+
+    <color name="color_link">#f2efdc</color>
+    <color name="color_link_received">#6e88f2</color>
+</resources>

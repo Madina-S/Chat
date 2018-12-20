@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/chat_entry_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/chat_entry_height"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:background="@drawable/item_selector">
+
+    <TextView
+            android:id="@+id/initial_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="H"
+            android:textSize="30sp"
+            android:textColor="#FFFF"
+            android:background="@drawable/rounded_text_view"
+            android:gravity="center"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="10dp">
+
+        <TextView
+                android:id="@+id/chat_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Adam"
+                style="@style/title_style"/>
+
+        <TextView
+                android:id="@+id/chat_last_message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="no messages yet"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "458255331350",
+    "firebase_url": "https://chat-85c8b.firebaseio.com",
+    "project_id": "chat-85c8b",
+    "storage_bucket": "chat-85c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458255331350:android:3ef1116e09724ec8",
+        "android_client_info": {
+          "package_name": "corn.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458255331350-arv88hvp1mrv17er8ldsu6jvkm2bodce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_6GMOMC3iWsV6NrVMZkKxxye59sT4o1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
